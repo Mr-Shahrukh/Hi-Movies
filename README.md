@@ -2,7 +2,7 @@
 
 🚀 Built as part of my Fullstack Java Developer journey
 
-A modern movie browsing web application built using React. Users can explore movies, search for their favorite films, and manage a personalized favorites list.
+A modern movie browsing web application built using React.js Users can explore movies, search for their favorite films, and manage a personalized favorites list.
 
 ---
 
